@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andres/Dropbox/Files/Projects/DataScience/Projects/mlflow-wine/mlruns/0/665fe6619917419c9d1f438d5cd23f84/artifacts
+end_time: 1671366498952
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 665fe6619917419c9d1f438d5cd23f84
+run_name: inquisitive-ox-271
+run_uuid: 665fe6619917419c9d1f438d5cd23f84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671366496002
+status: 3
+tags: []
+user_id: andres
